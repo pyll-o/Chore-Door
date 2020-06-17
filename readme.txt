@@ -1,0 +1,1 @@
+Codecademy project - my first ever JS interactive website, this was built using step-by-step tutorial
